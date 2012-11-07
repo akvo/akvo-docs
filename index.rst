@@ -14,12 +14,6 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-	intro
-	documentation
-	internal_it
-	development
-	policies
-	products
 
 
 
