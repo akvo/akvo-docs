@@ -14,8 +14,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
-
+	documentation/akvo-high-level
 
 Indices and tables
 ==================
