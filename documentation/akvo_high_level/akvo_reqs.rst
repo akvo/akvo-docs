@@ -62,15 +62,50 @@ By open systems we mean:
 
 **Implementation**: All of our systems publish data and content1 under an open license. (With a few exceptions below.) All our systems have open APIs which allow data to be extracted and used for other purposes. We use open licensing for the data which our partners enter into our systems. We use two licenses in particular: Creative Commons Attribution Share Alike (CC-BY-SA) and the Open Database License (ODbL). Photographs or pictures entered into Akvo RSR use the Creative Commons Attribution Share Alike Non-commercial (CC-BY-SA-NC), as it may not be comfortable for many NGOs to have commercial use of their photography.
 
-http://creativecommons.org/licenses/by-sa/3.0/
+- http://creativecommons.org/licenses/by-sa/3.0/
 
-http://opendatacommons.org/licenses/odbl/
+- http://opendatacommons.org/licenses/odbl/
 
-http://creativecommons.org/licenses/by-sa-nc/3.0/
+- http://creativecommons.org/licenses/by-sa-nc/3.0/
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/
+- http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 **Rationale**: [TBD]
+
+4. Akvo only works on "safe" data
+---------------------------------
+**Requirement**: We do not work on data which need very high levels of security protection or shouldn't be published for some reason.
+
+**Implementation**: [TBD]
+
+**Rationale**: Some data which one could collect with our systems could be needing high levels of security protection. For example, one could imagine collecting data about refugee camps near to a war zone. If we have detailed data [TBD]
+
+5. Privacy
+----------
+
+**Requirement**: We need privacy for some of our data
+
+**Implementation**: We host data in Europe, primarily in the Netherlands. We don't consider the US having adequate data protection legislation and will move away from US services when  possible.
+
+**Rationale**: Even when you are working with open data there is always some data which needs to be kept private. Examples would be: 
+
+- household data from surveys
+- user data from user accounts, login information, API keys etc.
+
+Other data that we want to keep private is data which could be used to compete against us. In particular there are some data which we don't want to tempt our competitors or potential future competitors with, so we shouldn't put it under their control. This in particular is: 
+
+- web site traffic data
+
+As we are working with information which could potentially be politically sensitive, such as data on water, and we have several partners which we work with that are national governments and large multilateral organisations, we should host data in jurisdictions with good privacy and data protection laws.
+
+6. Handling of private data
+---------------------------
+
+**Requirement**: If our partners have private data, such as household survey data, then some type of summary data should be published openly anyway.
+
+**Implementation**: We should have functions which allow our systems to always openly publish anonymised or summary data.
+
+**Rationale**: If we start compromising on open data then there will more and more arguments from organisations which don't want to publish open data from our systems that their data is somehow different and needs to be secret. If we don't enforce open data at system level then we will be fighting a losing battle against the urges to keep data secret. 
 
 
 
