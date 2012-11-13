@@ -35,15 +35,17 @@ The technical requirements are structured in three sections for each requirement
 
 **Rationale**: To quickly create successful information and data systems to achieve our vision, we argue that together we must make use of open systems. This will allow many of us to collaborate and to quickly reach the next level. It is the fastest method which also creates a sustainable and resilient information eco-system.
 
-**Comement**: 
+**Comment**: 
 
-- using open standards to work with data, for example to track progress towards goals and objectives, complimented with an open data exchange format, as exemplified in the IATI XML standard
+By open systems we mean:
 
-- open data, where all the data is open with anyone free to use, reuse, and redistribute it — subject only, at most, to the requirement to attribute and share-alike
+- using **open standards** to work with data, for example to track progress towards goals and objectives, complimented with an open data exchange format, as exemplified in the IATI XML standard
 
-- open APIs, where different computer systems containing goal data can interchange the data automatically via Application Programming Interfaces (APIs), the APIs should be open, meaning that their form may be copied freely by others as well as being accessible and usable by anyone
+- **open data**, where all the data is open with anyone free to use, reuse, and redistribute it — subject only, at most, to the requirement to attribute and share-alike
 
-- open source software, where the underlying software that drives the systems which collects, collates, stores and distributes the data are built on software that adhere to the open source standards set by the Open Source Initiative
+- **open APIs**, where different computer systems containing goal data can interchange the data automatically via Application Programming Interfaces (APIs), the APIs should be open, meaning that their form may be copied freely by others as well as being accessible and usable by anyone
+
+- **open source software**, where the underlying software that drives the systems which collects, collates, stores and distributes the data are built on software that adhere to the open source standards set by the Open Source Initiative
 
 
 2. Fast and resilient knowledge sharing when building systems
@@ -53,6 +55,22 @@ The technical requirements are structured in three sections for each requirement
 **Implementation**: We use open licenses
 
 **Rationale**: Open knowledge sharing has proven to be the fastest way to create more and better knowledge, as well as sharing this knowledge widely, as exemplified by most academic research and Wikipedia. We believe that stating upfront that our information is available openly, through the use of open licenses, we not only promote sharing, but we also ensure that our information is treated correctly by others.
+
+3. Open data and content
+------------------------
+**Requirement**: All data in our systems needs to be open. 
+
+**Implementation**: All of our systems publish data and content1 under an open license. (With a few exceptions below.) All our systems have open APIs which allow data to be extracted and used for other purposes. We use open licensing for the data which our partners enter into our systems. We use two licenses in particular: Creative Commons Attribution Share Alike (CC-BY-SA) and the Open Database License (ODbL). Photographs or pictures entered into Akvo RSR use the Creative Commons Attribution Share Alike Non-commercial (CC-BY-SA-NC), as it may not be comfortable for many NGOs to have commercial use of their photography.
+
+http://creativecommons.org/licenses/by-sa/3.0/
+
+http://opendatacommons.org/licenses/odbl/
+
+http://creativecommons.org/licenses/by-sa-nc/3.0/
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+**Rationale**: [TBD]
 
 
 
