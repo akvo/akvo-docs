@@ -29,10 +29,30 @@ The technical requirements are structured in three sections for each requirement
 
 1. Sustainable and resilient systems
 ------------------------------------
-Requirement: We need an information and data eco-system which is sustainable and resilient.
-Implementation: We build open systems.
-Rationale: To quickly create successful information and data systems to achieve our vision, we argue that together we must make use of open systems. This will allow many of us to collaborate and to quickly reach the next level. It is the fastest method which also creates a sustainable and resilient information eco-system.
+**Requirement**: We need an information and data eco-system which is sustainable and resilient.
 
+**Implementation**: We build open systems.
+
+**Rationale**: To quickly create successful information and data systems to achieve our vision, we argue that together we must make use of open systems. This will allow many of us to collaborate and to quickly reach the next level. It is the fastest method which also creates a sustainable and resilient information eco-system.
+
+**Comement**: 
+
+- using open standards to work with data, for example to track progress towards goals and objectives, complimented with an open data exchange format, as exemplified in the IATI XML standard
+
+- open data, where all the data is open with anyone free to use, reuse, and redistribute it — subject only, at most, to the requirement to attribute and share-alike
+
+- open APIs, where different computer systems containing goal data can interchange the data automatically via Application Programming Interfaces (APIs), the APIs should be open, meaning that their form may be copied freely by others as well as being accessible and usable by anyone
+
+- open source software, where the underlying software that drives the systems which collects, collates, stores and distributes the data are built on software that adhere to the open source standards set by the Open Source Initiative
+
+
+2. Fast and resilient knowledge sharing when building systems
+-------------------------------------------------------------
+**Requirement**: We need knowledge sharing which is fast and resilient
+
+**Implementation**: We use open licenses
+
+**Rationale**: Open knowledge sharing has proven to be the fastest way to create more and better knowledge, as well as sharing this knowledge widely, as exemplified by most academic research and Wikipedia. We believe that stating upfront that our information is available openly, through the use of open licenses, we not only promote sharing, but we also ensure that our information is treated correctly by others.
 
 
 
