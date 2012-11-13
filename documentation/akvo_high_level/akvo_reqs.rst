@@ -7,11 +7,11 @@ Change log
 
 Table of contents
 -----------------
--Overview
+- Overview
 
--Organisational requirements
+- Organisational requirements
 
--Technical requirements
+- Technical requirements
 
 Overview
 ========
