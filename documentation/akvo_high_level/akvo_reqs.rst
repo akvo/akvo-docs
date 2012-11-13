@@ -25,6 +25,14 @@ We will achieve this mission by balancing the construction of tools with the ass
 Technical requirements
 ======================
 
+The technical requirements are structured in three sections for each requirement. Requirements statement. Implementation statement. Rational statement. One key reason for structuring it this way is to make it easy to quickly browse and get an overview understanding of what we are trying to do.
+
+1. Sustainable and resilient systems
+------------------------------------
+Requirement: We need an information and data eco-system which is sustainable and resilient.
+Implementation: We build open systems.
+Rationale: To quickly create successful information and data systems to achieve our vision, we argue that together we must make use of open systems. This will allow many of us to collaborate and to quickly reach the next level. It is the fastest method which also creates a sustainable and resilient information eco-system.
+
 
 
 
