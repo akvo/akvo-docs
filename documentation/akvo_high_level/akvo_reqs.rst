@@ -6,9 +6,9 @@ Change log
 13 November 2012: Intitial creation of content.
 
 Overview
---------
+========
 
-This document describes what we call Akvo's fundamental requirements. These requirements describe the core thoughts and principles around which Akvo Foundation was created and how it is operated on a daily basis, and the rational behind it. It is a non-trivial task to write fundamental requirements down, so this document may never be "finished".
+This document describes what we call Akvo's fundamental requirements. These requirements describe the core thoughts and principles around which Akvo Foundation was created, how it is operated on a daily basis, and the rational behind it. Not only is it a non-trivial task to write fundamental requirements down, the requirements constantly change, so this document will never be "finished".
 
 Akvo's vision
 -------------
@@ -16,15 +16,20 @@ We see a future in which international development is open, transparent and coll
 
 Akvo's mission
 --------------
-We build a superior open online platform and a trusted partner network which allows development cooperation to be collaborated around, financed through, reported on and monitored, via interoperable platforms.
+We build a superior open online platform and a trusted partner network which allows international development to be collaborated around, financed through, reported on and monitored, via interoperable platforms.
 
 Akvo's strategy
 ---------------
 We will achieve this mission by balancing the construction of tools with the assembly of a network of partners and communication about our progress, to create a strong combination of people, organisations and tools to get the job done. We use open-source methods and tools wherever practical and possible. We only build what is not already available and we openly share all the tools and content which we create. 
 
+Technical requirements
+======================
+
+
+
 
 EXAMPLES - not part of documentation
-=====================================
+====================================
 This document contains examples of how to layout text and images in RST.
 
 |more| Linking to other documents :ref:`uploading data <uploading_data>`
