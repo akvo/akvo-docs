@@ -30,6 +30,12 @@ Akvo's strategy
 ---------------
 We will achieve this mission by balancing the construction of tools with the assembly of a network of partners and communication about our progress, to create a strong combination of people, organisations and tools to get the job done. We use open-source methods and tools wherever practical and possible. We only build what is not already available and we openly share all the tools and content which we create. 
 
+
+Organisational requirements
+===========================
+
+[TBD]
+
 Technical requirements
 ======================
 
