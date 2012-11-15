@@ -92,7 +92,15 @@ Akvo's methods and approach, much of which is focused on an entrepreneurial can-
 
 **Rationale**: In a fast moving distributed organisation with highly motivated individuals we need people to know they can take responsibility for tasks and problems and get things done. We believe that this is best done in a flat organisation and with  
 
-7. No disaster response engagements
+7. No outsourcing of core functions
+-----------------------------------
+**Requirement**: Keep competency in our core functions and connections to our network in our in-house team.
+
+**Implementation**: We need to keep core functions of the organisation in-house. Significant parts of the partner, communications and software development team are employed directly or via direct long term contracts. 
+
+**Rationale**: We believe that an organisation can not be competent in a small organisation and provide cutting-edge services unless it has sufficient competency in-house. We do outsource some none core functions or functions which are not differentiators.
+
+8. No disaster response systems
 -----------------------------------
 **Requirement**: Akvo does not build systems specifically for disaster response.
 
