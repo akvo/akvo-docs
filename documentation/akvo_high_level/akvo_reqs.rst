@@ -3,9 +3,7 @@ Akvo High-Level Requirements
 
 Change log
 ----------
-15 November 2012: Added further requirements.
-14 November 2012: Added further requirements.
-13 November 2012: Initial creation of content.
+A detailed change log can be found here: https://github.com/akvo/akvo-docs/commits/master/documentation/akvo_high_level/akvo_reqs.rst
 
 Table of contents
 -----------------
