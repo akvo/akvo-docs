@@ -38,9 +38,9 @@ We will achieve this mission by balancing the construction of tools with the ass
 Organisational requirements
 ===========================
 
-1. The "right" people are key
+1. The right people are key
 -----------------------------
-**Requirement**: We strongly believe that it is core to success to have the "right" people as part of our team.
+**Requirement**: We strongly believe that it is core to success to have the right people as part of our team.
 
 **Implementation**: We put team chemistry foremost in our requirements on new colleagues. We don't hire a list of skills, we hire a person. We do several interviews by the colleagues who will work with any potential new co-worker and then if we think it will work out we do a real project together on a contract, for 3 months. If the consensus is that the new colleague is right for us then we hire her or sign a longer term contract. 
 
