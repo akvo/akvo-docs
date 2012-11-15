@@ -3,6 +3,8 @@ Akvo High-Level Requirements
 
 Change log
 ----------
+15 November 2012: Added further requirements.
+14 November 2012: Added further requirements.
 13 November 2012: Initial creation of content.
 
 Table of contents
@@ -62,6 +64,7 @@ Organisational requirements
 **Implementation**: We have strong entrepreneurs as part of our team.
 
 **Rationale**: Working in an environment which is often very conservative in its approach (development aid and country governance) we have to be entrepreneurial to not become stuck in old fashioned and traditional ways of doing things. Especially as we are brought in to help implement positive change.
+
 **Comment**: All Akvo's co-founders, directors and many of our staff have been individual entrepreneurs, company founders or part of small organisations growing quickly. Keeping an entrepreneurial ethos and spirit is key to our continued success. We are often pushing back against requirements which are not only unnecessary, but even striving backwards, back to systems "the way it used to be".
 Akvo's methods and approach, much of which is focused on an entrepreneurial can-do attitude, are based on openness, transparency, collaboration and sharing, often goes against the grain of development aid organisations and governments. Despite us being invited to help introduce our methods, tools and approach, often by top-level management or government officials, the middle or lower level management or officials and bureaucrats push back and resist the change. We must not become what we are supposed to change.
 
@@ -201,7 +204,7 @@ As we are working with information which could potentially be politically sensit
 
 **Rationale**: For significant progress with tools like Akvo RSR the Akvo Trusted Partner Network needs to be able to demonstrate integrity by openly showing that information is not manipulated retroactively on started projects. Information which is entered about a project should not change without some type of revision history and reason for the change.
 
-Comment: The current implementation of this falls short in Akvo RSR. There should probably be a revision history function of changes to updates and project information with a clearly presented user interface showing who changed what when. Currently only Akvo staff can change the content or delete an update. Anyone with access privileges (which are set quite wide, i.e. anyone who has a Project Editor account and where a project belong to that organisation) can change the content and budget for a published project, without any visible change tracking.
+**Comment**: The current implementation of this falls short in Akvo RSR. There should probably be a revision history function of changes to updates and project information with a clearly presented user interface showing who changed what when. Currently only Akvo staff can change the content or delete an update. Anyone with access privileges (which are set quite wide, i.e. anyone who has a Project Editor account and where a project belong to that organisation) can change the content and budget for a published project, without any visible change tracking.
 
 8. Projects presentation should meet a certain quality level
 -------------------------------------------------------------
