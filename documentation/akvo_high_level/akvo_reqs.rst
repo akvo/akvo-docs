@@ -179,9 +179,11 @@ By open systems we mean:
 ---------------------------------
 **Requirement**: We do not work on data which need very high levels of security protection or shouldn't be published for some reason.
 
-**Implementation**: [TBD]
+**Implementation**: We don't handle data in the systems which we manage which requires high levels of security protection or anonymisation.
 
-**Rationale**: Some data which one could collect with our systems could be needing high levels of security protection. For example, one could imagine collecting data about refugee camps near to a war zone. If we have detailed data [TBD]
+**Rationale**: Some data which one could collect with our systems could be needing high levels of security protection. For example, one could imagine collecting data about refugee camps near to a war zone. If we have detailed data about, for example, where all the rape victims are camped one could conceivably get access to this data to find the victims and commit further atrocities.
+
+The need for open data is big enough for us to work on without having to take on this specific high-risk narrow target market.
 
 5. Privacy
 ----------
