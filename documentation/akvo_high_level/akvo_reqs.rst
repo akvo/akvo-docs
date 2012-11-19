@@ -1,4 +1,4 @@
-Akvo Fundamental Requirements
+Akvo fundamental requirements
 =============================
 
 Change log
