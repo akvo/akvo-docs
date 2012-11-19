@@ -224,7 +224,7 @@ As we are working with information which could potentially be politically sensit
 
 **Comment**: The current implementation of this falls short in Akvo RSR. There should probably be a revision history function of changes to updates and project information with a clearly presented user interface showing who changed what when. Currently only Akvo staff can change the content or delete an update. Anyone with access privileges (which are set quite wide, i.e. anyone who has a Project Editor account and where a project belong to that organisation) can change the content and budget for a published project, without any visible change tracking.
 
-8. Projects presentation should meet a certain quality level
+8. XXXX [next requirement]
 -------------------------------------------------------------
 **Requirement**: 
 
