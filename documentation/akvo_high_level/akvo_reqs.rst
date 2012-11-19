@@ -100,7 +100,17 @@ Akvo's methods and approach, much of which is focused on an entrepreneurial can-
 
 **Rationale**: We believe that an organisation can not be competent in a small organisation and provide cutting-edge services unless it has sufficient competency in-house. We do outsource some none core functions or functions which are not differentiators.
 
-8. No disaster response systems
+8. Partners, not customers
+--------------------------
+**Requirement**: We need strong, positive relationships with the users of our systems.
+
+**Implementation**: Akvo does not have customers, Akvo has partners.
+
+**Rationale**: Treating every organisation as a partner changes the interaction. We treat partners different than we would customers and our partners treat us differently than they would if we were a supplier. 
+
+**Comment**: It is of course not the only thing which is required to have a strong, positive relationship, but treating everyone as a partner is a surprisingly strong way of changing the interaction in a positive way.
+
+9. No disaster response systems
 -----------------------------------
 **Requirement**: Akvo does not build systems specifically for disaster response.
 
