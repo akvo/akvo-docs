@@ -1,3 +1,5 @@
+! [Akvo logo] (http://akvo.org/wp-content/themes/Akvo-responsive/images/Akvo_RGB-GREYSCALE_reverse_logo.png)
+
 akvo-docs
 =========
 
